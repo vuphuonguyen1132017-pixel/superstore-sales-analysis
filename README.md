@@ -14,10 +14,10 @@ This project analyzes retail sales data using Python to discover businnes insigh
 
 ## Business Questions
 
-How do sales change over time?
-Which region has the highest sales?
-Does discount affect profit?
-Who are the top customers?
+- How do sales change over time?
+- Which region has the highest sales?
+- Does discount affect profit?
+- Who are the top customers?
 
 ## Conclusion
 
