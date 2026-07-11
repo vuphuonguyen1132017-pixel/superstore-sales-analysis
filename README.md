@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail sales data using Python to discover business insights.
+This project analyzes retail sales data using Python to discover businnes insights.
 
 ## Tools Used
 
